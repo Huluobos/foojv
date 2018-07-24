@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f0b74cb-2d31-4f7c-8f76-d0bb67ef0068" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nuxt-foojv" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="vue" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$axios</find>
+      <find>axios</find>
+      <find>toReg</find>
+      <find>user</find>
+      <find>zoomPhoto</find>
+      <find>bottom2</find>
+      <find>bottom</find>
+      <find>党建</find>
+      <find>owner</find>
+      <find>seletedIndex</find>
+      <find>placeholderText</find>
+      <find>swiperOption</find>
+      <find>handleClick</find>
+      <find>.content</find>
+      <find>details</find>
+      <find>:class</find>
+      <find>s_pic20177251417447197</find>
+      <find>nuxt-link</find>
+      <find>select-city</find>
+      <find>spinner-content</find>
+      <find>nav-item</find>
+      <find>top_title</find>
+      <find>banner</find>
+      <find>recommendDatas</find>
+      <find>opacity</find>
+      <find>bannerDatas</find>
+      <find>index-container</find>
+      <find>name</find>
+      <find>__ob__</find>
+      <find>nav-wrap</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/about/mimi.vue" />
+        <option value="$PROJECT_DIR$/pages/about/banQuan.vue" />
+        <option value="$PROJECT_DIR$/pages/about/baoHu.vue" />
+        <option value="$PROJECT_DIR$/layouts/aboutOur.vue" />
+        <option value="$PROJECT_DIR$/pages/mypage/changeXinXi.vue" />
+        <option value="$PROJECT_DIR$/pages/login.vue" />
+        <option value="$PROJECT_DIR$/components/loginCom.vue" />
+        <option value="$PROJECT_DIR$/components/right_nav.vue" />
+        <option value="$PROJECT_DIR$/components/picZoom.vue" />
+        <option value="$PROJECT_DIR$/components/secondHand/butler.vue" />
+        <option value="$PROJECT_DIR$/components/secondHand/myZoom.vue" />
+        <option value="$PROJECT_DIR$/components/secondHand/picZoom.vue" />
+        <option value="$PROJECT_DIR$/pages/tool.vue" />
+        <option value="$PROJECT_DIR$/pages/myhouse/findHouse.vue" />
+        <option value="$PROJECT_DIR$/pages/myhouse/homeOwer.vue" />
+        <option value="$PROJECT_DIR$/pages/smallQu/details.vue" />
+        <option value="$PROJECT_DIR$/pages/son/details.vue" />
+        <option value="$PROJECT_DIR$/pages/zuHouse/details.vue" />
+        <option value="$PROJECT_DIR$/pages/houseDetails.vue" />
+        <option value="$PROJECT_DIR$/layouts/second.vue" />
+        <option value="$PROJECT_DIR$/layouts/simple.vue" />
+        <option value="$PROJECT_DIR$/pages/shoolNewHouse/details.vue" />
+        <option value="$PROJECT_DIR$/pages/shoolZuHouse/details.vue" />
+        <option value="$PROJECT_DIR$/pages/smallQu/index.vue" />
+        <option value="$PROJECT_DIR$/pages/zhuanTi/details.vue" />
+        <option value="$PROJECT_DIR$/pages/baiKe/details.vue" />
+        <option value="$PROJECT_DIR$/components/secondHeader.vue" />
+        <option value="$PROJECT_DIR$/components/secondHeaderBottom.vue" />
+        <option value="$PROJECT_DIR$/components/indexHeader.vue" />
+        <option value="$PROJECT_DIR$/components/register_header.vue" />
+        <option value="$PROJECT_DIR$/pages/shoolSecondHouse/details.vue" />
+        <option value="$PROJECT_DIR$/pages/shoolSecondHouse/index.vue" />
+        <option value="$PROJECT_DIR$/components/schoolHouseHeaderBottom.vue" />
+        <option value="$PROJECT_DIR$/pages/zuHouse/index.vue" />
+        <option value="$PROJECT_DIR$/pages/zhuanTi/index.vue" />
+        <option value="$PROJECT_DIR$/pages/son/index.vue" />
+        <option value="$PROJECT_DIR$/pages/shoolZuHouse/index.vue" />
+        <option value="$PROJECT_DIR$/pages/shoolNewHouse/index.vue" />
+        <option value="$PROJECT_DIR$/pages/baiKe/index.vue" />
+        <option value="$PROJECT_DIR$/api/routes/users.js" />
+        <option value="$PROJECT_DIR$/api/index.js" />
+        <option value="$PROJECT_DIR$/pages/secondHeadHouse.vue" />
+        <option value="$PROJECT_DIR$/pages/newHomesList.vue" />
+        <option value="$PROJECT_DIR$/components/newHouseSearch.vue" />
+        <option value="$PROJECT_DIR$/mainApi/index.js" />
+        <option value="$PROJECT_DIR$/pages/index.vue" />
+        <option value="$PROJECT_DIR$/pages/newHouse.vue" />
+        <option value="$PROJECT_DIR$/pages/newHousePhoto.vue" />
+        <option value="$PROJECT_DIR$/pages/newHouseDetails.vue" />
+        <option value="$PROJECT_DIR$/plugins/qiniu.js" />
+        <option value="$PROJECT_DIR$/plugins/axios.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
+    <option name="y" value="5" />
+    <option name="width" value="1850" />
+    <option name="height" value="1104" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nuxt-foojv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-foojv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-foojv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-foojv" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt-foojv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-foojv" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Huluobos/Desktop/nuxt-foojv/plugins/axios.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../练习/CC" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Huluobos\Desktop\nuxt-foojv\node_modules\eslint" />
+    <property name="node.js.selected.package.prettier" value="C:\Users\Huluobos\Desktop\nuxt-foojv\node_modules\prettier" />
+    <property name="node.js.selected.package.standard" value="C:\Users\Huluobos\Desktop\nuxt-foojv\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\components\secondHand" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\components" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\pages\myhouse" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\pages\mypage" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\components\yyy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\plugins" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\pages" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\components" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv\layouts" />
+      <recent name="C:\Users\Huluobos\Desktop\nuxt-foojv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.lint" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.lint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f0b74cb-2d31-4f7c-8f76-d0bb67ef0068" name="Default" comment="" />
+      <created>1530441089355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530441089355</updated>
+      <workItem from="1530441090921" duration="2947000" />
+      <workItem from="1530505392073" duration="16960000" />
+      <workItem from="1530526266565" duration="1998000" />
+      <workItem from="1530534228874" duration="763000" />
+      <workItem from="1530535777854" duration="5708000" />
+      <workItem from="1530593150596" duration="25062000" />
+      <workItem from="1530624737534" duration="2370000" />
+      <workItem from="1530670743410" duration="14228000" />
+      <workItem from="1530693877687" duration="12206000" />
+      <workItem from="1530764765223" duration="20032000" />
+      <workItem from="1530790713337" duration="9979000" />
+      <workItem from="1530856310891" duration="747000" />
+      <workItem from="1530863324597" duration="280000" />
+      <workItem from="1530864060974" duration="10548000" />
+      <workItem from="1531188767439" duration="31973000" />
+      <workItem from="1531282616978" duration="30322000" />
+      <workItem from="1531361199864" duration="27786000" />
+      <workItem from="1531444745517" duration="16308000" />
+      <workItem from="1531464071989" duration="18924000" />
+      <workItem from="1531725040449" duration="336000" />
+      <workItem from="1531725419309" duration="17184000" />
+      <workItem from="1531803486108" duration="4690000" />
+      <workItem from="1531812387090" duration="153000" />
+      <workItem from="1531877797805" duration="634000" />
+      <workItem from="1531891287466" duration="605000" />
+      <workItem from="1531988424832" duration="1227000" />
+      <workItem from="1531990424095" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="273987000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-7" width="1478" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7948718" visible="true" weight="0.2149792" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32793522" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5041609" side_tool="true" weight="0.25236169" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
+      <window_info id="npm" order="1" sideWeight="0.20512821" side_tool="true" weight="0.2149792" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49583912" weight="0.87989205" />
+      <window_info id="Structure" order="2" sideWeight="0.25632912" side_tool="true" weight="0.16643551" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49861303" weight="0.32928476" />
+      <window_info anchor="bottom" id="RNConsole" order="8" weight="0.32928476" />
+      <window_info id="Favorites" order="3" sideWeight="0.25632912" side_tool="true" weight="0.16643551" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="1" sideWeight="0.25394046" side_tool="true" visible="true" weight="0.20457697" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49583912" visible="true" weight="0.22941971" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.74605954" visible="true" weight="0.20457697" />
+      <window_info id="Structure" order="2" sideWeight="0.25632912" side_tool="true" weight="0.16643551" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32797858" />
+      <window_info anchor="bottom" id="RNConsole" order="11" weight="0.32931727" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49861303" weight="0.43310344" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5041609" side_tool="true" weight="0.25301206" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32931727" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32" />
+      <window_info id="Favorites" order="3" sideWeight="0.25632912" side_tool="true" weight="0.16643551" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/pages/newHouse.vue</url>
+          <line>1</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="49" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/myhouse/findHouse.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/myhouse/homeOwer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="123" column="24" lean-forward="true" selection-start-line="122" selection-start-column="8" selection-end-line="123" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/simple.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/myMain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="74" column="15" lean-forward="true" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/default.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/aboutOur.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="10" column="73" lean-forward="true" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/smallQu/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/smallQu/details.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/son/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/secondHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="47" column="53" lean-forward="true" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/indexHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/broker.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/register_header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/loginCom.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="57" column="62" lean-forward="true" selection-start-line="57" selection-start-column="62" selection-end-line="57" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shoolSecondHouse/details.vue" />
+    <entry file="file://$PROJECT_DIR$/layouts/second.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="42" column="18" lean-forward="true" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shoolSecondHouse/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="3" column="59" lean-forward="true" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/zuHouse/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/zuHouse/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/zhuanTi/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/zhuanTi/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/son/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shoolZuHouse/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shoolZuHouse/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shoolNewHouse/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shoolNewHouse/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/baiKe/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/baiKe/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forgetPwd.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/secondHeadHouse.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="527" column="18" selection-start-line="527" selection-start-column="18" selection-end-line="527" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/newHomesList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="153" column="30" lean-forward="true" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/schoolHouseHeaderBottom.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/secondHeaderBottom.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/newHouseSearch.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/newHouse.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="214" column="68" lean-forward="true" selection-start-line="214" selection-start-column="68" selection-end-line="214" selection-end-column="68" />
+          <folding>
+            <element signature="e#4746#4799#0" expanded="true" />
+            <element signature="e#5405#7086#0" />
+            <element signature="e#7114#7446#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="292" column="39" selection-start-line="292" selection-start-column="33" selection-end-line="292" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about/banQuan.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/secondHand/picZoom.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="60" column="52" lean-forward="true" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/newHousePhoto.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/houseDetails.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="593" column="4" selection-start-line="593" selection-start-column="4" selection-end-line="596" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js" />
+    <entry file="file://$PROJECT_DIR$/mainApi/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-698">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/newHouseDetails.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2816">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/qiniu.js" />
+    <entry file="file://$PROJECT_DIR$/plugins/axios2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/axios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/index.js" />
+    <entry file="file://$PROJECT_DIR$/plugins/element-ui.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
